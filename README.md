@@ -1,2 +1,2 @@
-# NeurIPS25_Anonymous_Code
-Adaptive Cluster Collaborativeness Boosts LLMs Medical Decision Support Capacity
+# AAAI26_Anonymous_Code
+MAC: Masked Agent Collaboration Boosts Large Language Model Medical Decision-Making Capacity
